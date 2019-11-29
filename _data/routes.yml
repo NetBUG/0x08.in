@@ -3,6 +3,6 @@ main:
           url: "https://0x08.in"
 nav-bar:
         - title: "События"
-          url: /events
+          url: /events/
         - title: "Участникам"
           url: /participants
